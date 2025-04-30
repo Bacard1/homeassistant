@@ -41,11 +41,11 @@
 ## 🖼️ Снимки от моят "Home Assistant":
 | Начална страница:    | Една от стаите:      | Изскачащи прозорци в стаята: |
 |:--------------------|:--------------------|:--------------------|
-| ![image](https://github.com/user-attachments/assets/c0aa838d-1254-4fec-b54f-724e8a331a81) | ![image](https://github.com/user-attachments/assets/18d63240-3ce3-438b-826e-0aa0712fdc33) | ![image](https://github.com/user-attachments/assets/7376a137-b84c-48b1-b314-85a92bc1495d) |
-| Shopllist с картинки: | Интеграции които използвам: | Zigbee мрежа: |
-| ![image](https://github.com/user-attachments/assets/4841bfc5-3007-44a6-8944-828c92286d8d) | ![image](https://github.com/user-attachments/assets/85e188d6-8d55-46ad-871b-fb6422578cfa) | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
-| Добавки: | Мониторинг: | Натоварване хардуер: |
-| ![image](https://github.com/user-attachments/assets/cb5b7ebb-7234-4821-9867-abe2de667ae3) | ![image](https://github.com/user-attachments/assets/39dbc905-90aa-4b76-8358-399418b98a6e) | ![image](https://github.com/user-attachments/assets/a2139e51-4ebe-4e87-bc3b-c17f58c0a6a9) |
+| ![image](/img/nachalna_stranica.png) | ![image](/img/staq_hol.png) | ![image](/img/izkachasti_prozorci.png) |
+| Shopllist с картинки: | Интеграции които използвам: | Zigbee мрежа1: |
+| ![image](/img/shoplist123.png) | ![image](/img/integrations.png) | ![image](/img/zigbee1.png) |
+| Добавки: | Мониторинг: | Zigbee мрежа2: |
+| ![image](/img/dobavki.png) | ![image](/img/monitoring.png) | ![image](/img/zigbee2.png) |
 
 ---
 
@@ -116,7 +116,6 @@
 
 ### 🧬 TASMOTA - интеграция и устройства
 **Предимствата на този списък за пазаруване:**
-- *Не зависи от интернет. С добавката Zigbee2MQTT, HomeAssistant сам хоства и потдържа Zigbee устроиствата Ви.*
 - *Пълен контрол над устройството.*
 - *Контролът върху устройството не зависи от връзката му с интернет.*
 - *Мигновенна реакция през TASMOTA, Home Assistant и Alexa.*
