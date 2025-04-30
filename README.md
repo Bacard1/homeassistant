@@ -18,6 +18,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
     - [🧬 Image shopping list](#-image-shopping-list)
     - [🧬 Wled Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
     - [🧬 Tasmota - integration and device](#-tasmota---integration-and-device)
+
 ---
 
 ## 💬 Tittle
