@@ -9,20 +9,20 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 ## 📦 Content
 
-- [🏠 HOME ASSITANT ПРОЕКТИ И РАЗРАБОТКИ](#-home-assitant-проекти-и-разработки)
-  - [📦 Съдържание](#-съдържание)
-  - [💬 Обобщение](#-обобщение)
-  - [🖼️ Снимки от моят "Home Assistant":](#️-снимки-от-моят-home-assistant)
-  - [🛠️ Проекти](#️-проекти)
-    - [🧬 Създаване/Интегриране на Zigbee мрежа](#-създаванеинтегриране-на-zigbee-мрежа)
-    - [🧬 Списък за пазаруване с изображения](#-списък-за-пазаруване-с-изображения)
-    - [🧬 WLED SoundReactiv интилигентна цветомузика](#-wled-soundreactiv-интилигентна-цветомузика)
-    - [🧬 TASMOTA - интеграция и устройства](#-tasmota---интеграция-и-устройства)
-
+- [🏠 HOME ASSISTANT PROJECT AND DEVELOPMENT](#-home-assistant-project-and-development)
+  - [📦 Content](#-content)
+  - [💬 Tittle](#-tittle)
+  - [🖼️ Photos from my "Home Assistant":](#️-photos-from-my-home-assistant)
+  - [🛠️ Projects](#️-projects)
+    - [🧬 Creating/integrating Zigbee network](#-creatingintegrating-zigbee-network)
+    - [🧬 Image shopping list](#-image-shopping-list)
+    - [🧬 Wled Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
+    - [🧬 Tasmota - integration and device](#-tasmota---integration-and-device)
+  
 
 ---
 
-## 💬 summary
+## 💬 Tittle
 
 - **Dynamism:** All objects and texts must be able to automatically scales depending on the size of the screen or window, maintaining a convenient view within the permissible limits.
 - **Simplified and tight design:** Easy to understand by both adults and children.Including quick links to key features and information to reduce pages links offset by pop-up windows for better navigation.
@@ -141,3 +141,5 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 > [!TIP]
 > If you liked this project, [HERE](https://github.com/bacard1?tab=repositories) you will find more interesting borderlines made by me. <br>
 > If you have difficulty or have questions, do not hesitate to contact me.
+
+[#projects]: #️-projects
