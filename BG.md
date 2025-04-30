@@ -122,6 +122,8 @@
 - *Мигновенна реакция през TASMOTA, Home Assistant и Alexa.*
 - *Не натоварва интернет мрежата.*
 
+<h3 align="right">
+
 [**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
 
 </h3>
