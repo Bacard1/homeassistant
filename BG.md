@@ -18,12 +18,9 @@
     - [🧬 WLED SoundReactiv интилигентна цветомузика](#-wled-soundreactiv-интилигентна-цветомузика)
     - [🧬 TASMOTA - интеграция и устройства](#-tasmota---интеграция-и-устройства)
 
-
 ---
 
 ## 💬 Обобщение
-
-
 
 - **Динамичност:** Всички обекти и текстове трябва да могат да се мащабират автоматично в зависимост от размера на екрана или прозореца, като се поддържа удобен изглед в рамките на допустими граници.
 - **Опростен и стегнат дизайн:** Лесен за разбиране както от възрастни, така и от деца. Включване на бързи връзки към ключови функции и информация с цел намаляване на препратките между страниците, компенсирано с изскачащи прозорци за по-добра навигация.
@@ -64,12 +61,14 @@
 - *Zigbee устройствата са ефтини.*
 - *Лесен ъпгрейд при натоварена мрежа.*
 
-![Създаване/Интегриране на Zigbee мрежа](/Statik/GIF/Zigbee_Network.gif)
+<p align="center">✅ HomeAssistant    ❌ WEB    ❌ ANDROID</p>
 
-<a href="https://github.com/Bacard1/HASS-ZigbeeNetwork.git">
-    <img align="center" src="https://raw.githubusercontent.com/Bacard1/icon-set-project/refs/heads/main/button/HASS_projekt_button.png" alt="Към проекта" width="30%" height="15%">
-</a>
-----> ✅ HomeAssistant    ❌ WEB    ❌ ANDROID
+![Създаване/Интегриране на Zigbee мрежа](/img/Zigbee_Network.gif)
+
+<h3 align="right">
+
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+</h3>
 
 ---
 ---
@@ -80,12 +79,16 @@
 - *Уведомяване на членовете в домакинството за наличие на нов артикул в списъка.*
 - *Автоматично изчистване на вече отметнатите артикули.*
 
-![Създаване/Интегриране на Zigbee мрежа](/Statik/GIF/Projekt_shoplist.gif)
+<p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
 
-<a href="https://github.com/Bacard1/HASS-ZigbeeNetwork.git">
-    <img align="center" src="https://raw.githubusercontent.com/Bacard1/icon-set-project/refs/heads/main/button/HASS_projekt_button.png" alt="Към проекта" width="30%" height="15%">
-</a>
-----> ✅ HomeAssistant    ✅ WEB    ❌ ANDROID
+![Image shopping list](/Statik/GIF/Projekt_shoplist.gif)
+
+
+
+<h3 align="right">
+
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+</h3>
 
 ---
 ---
@@ -99,12 +102,14 @@
 - *Web интерфейс, Андроид/МАК приложение, съвместимо с Home Assistent.*
 - [Video1](https://youtu.be/L4S17ooFPhY)  [Video2](https://youtu.be/V5HgxFt4hFg)
 
-![Създаване/Интегриране на Zigbee мрежа](/Statik/GIF/WLED%20SaundReactive.gif)
+<p align="center">✅ HomeAssistant    ✅ WEB    ✅ ANDROID</p>
 
-<a href="https://github.com/Bacard1/WLED-SoundReactive.git">
-    <img align="center" src="https://raw.githubusercontent.com/Bacard1/icon-set-project/refs/heads/main/button/HASS_projekt_button.png" alt="Към проекта" width="30%" height="15%">
-</a>
-----> ✅ HomeAssistant    ✅ WEB    ✅ ANDROID
+![Wled Sound Reactive intelligent color music](/Statik/GIF/WLED%20SaundReactive.gif)
+
+<h3 align="right">
+
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/WLED-SoundReactive.git)
+</h3>
 
 ---
 ---
@@ -117,12 +122,9 @@
 - *Мигновенна реакция през TASMOTA, Home Assistant и Alexa.*
 - *Не натоварва интернет мрежата.*
 
-![Създаване/Интегриране на Zigbee мрежа](/Statik/GIF/Zigbee_Network.gif)
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
 
-<a href="https://github.com/Bacard1/TASMOTA-switch.git">
-    <img align="center" src="https://raw.githubusercontent.com/Bacard1/icon-set-project/refs/heads/main/button/HASS_projekt_button.png" alt="Към проекта" width="30%" height="15%">
-</a>
-----> ✅ HomeAssistant    ✅ WEB    ❌ ANDROID
+</h3>
 
 ---
 ---

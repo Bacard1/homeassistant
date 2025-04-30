@@ -18,8 +18,6 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
     - [🧬 Image shopping list](#-image-shopping-list)
     - [🧬 Wled Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
     - [🧬 Tasmota - integration and device](#-tasmota---integration-and-device)
-  
-
 ---
 
 ## 💬 Tittle
@@ -126,12 +124,6 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 - *Instant reaction through Tasmota, Home Assistant and Alexa.*
 - *It does not load the internet network.*
 
-<p align="center"> ✅ HomeAssistant    ✅ WEB    ❌ ANDROID </p>
-
-![Tasmota - integration and device](/Statik/GIF/Zigbee_Network.gif)
-
-<h3 align="right">
-
 [**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
 
 </h3>
@@ -141,5 +133,3 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 > [!TIP]
 > If you liked this project, [HERE](https://github.com/bacard1?tab=repositories) you will find more interesting borderlines made by me. <br>
 > If you have difficulty or have questions, do not hesitate to contact me.
-
-[#projects]: #️-projects
