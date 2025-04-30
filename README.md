@@ -62,7 +62,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 <p align="center">✅ HomeAssistant    ❌ WEB    ❌ ANDROID</p>
 
-![Create/integrate zigbee network](/Statik/GIF/Zigbee_Network.gif)
+![Create/integrate zigbee network](/img/Zigbee_Network.gif)
 
 <h3 align="right">
 
@@ -81,7 +81,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
 
-![Image shopping list](/Statik/GIF/Projekt_shoplist.gif)
+![Image shopping list](/img/Projekt_shoplist.gif)
 
 
 
