@@ -123,6 +123,10 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 - *Instant reaction through Tasmota, Home Assistant and Alexa.*
 - *It does not load the internet network.*
 
+<p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
+
+![tasmota](/img/TASMOTA.png)
+
 <h3 align="right">
 
 [**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
