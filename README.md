@@ -1,6 +1,6 @@
 
 # 🏠 HOME ASSISTANT PROJECT AND DEVELOPMENT
-[![PayPal дарение](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
+[![PayPal gift](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
 
 Below I will present my Home Assistant project, dividing it into parts and presenting it as separate mini-projects.Some of them can be used without and with Home Assistant.
 In this storage, I will briefly explain the idea, purpose and advantages of each project.If any of them is of interest to you, you can follow the connection to the full project below each description.
