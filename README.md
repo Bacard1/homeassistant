@@ -105,7 +105,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ✅ ANDROID</p>
 
-![Wled Sound Reactive intelligent color music](/Statik/GIF/WLED%20SaundReactive.gif)
+![Wled Sound Reactive intelligent color music](/img/WLED%20SaundReactive.gif)
 
 <h3 align="right">
 
