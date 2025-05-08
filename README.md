@@ -19,6 +19,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
     - [🛒 Image shopping list](#-image-shopping-list)
     - [🎤🔉 WLED Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
     - [🤖 Tasmota - integration and device](#-tasmota---integration-and-device)
+    - [🏠 Hass with two zigbee networks](#-hass-with-two-zigbee-networks)
 
 ---
 
@@ -127,6 +128,26 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 <h3 align="right">
 
 [**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
+
+</h3>
+
+---
+---
+
+### 🏠 Hass with two zigbee networks
+**The benefits of this shopping list:**
+- *A larger number of devices.*
+- *Separation by loading and functions.*
+- *Testing and Compatibility with more devices.*
+- *Flexibility in migration and experiments.*
+
+<p align="center">✅ HomeAssistant    ❌ WEB    ❌ ANDROID</p>
+
+![tasmota](/img/hass_2zigbee_network.png)
+
+<h3 align="right">
+
+[**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/HASS-2-Zigbee-Network.git)
 
 </h3>
 
