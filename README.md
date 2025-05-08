@@ -112,7 +112,7 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
 
-![tasmota](/img/TASMOTA.png)
+![tasmota](/img/Tasmota-banner.png)
 
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
