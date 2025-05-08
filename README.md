@@ -13,7 +13,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 - [🏠 HOME ASSISTANT PROJECT AND DEVELOPMENT](#-home-assistant-project-and-development)
   - [📦 Content](#-content)
   - [💬 Tittle](#-tittle)
-  - [🖼️ Photos from my "Home Assistant":](#️-photos-from-my-home-assistant)
+  - [💡More](#more)
   - [🛠️ Projects](#️-projects)
     - [🧬 Creating/integrating Zigbee network](#-creatingintegrating-zigbee-network)
     - [🧬 Image shopping list](#-image-shopping-list)
@@ -40,14 +40,9 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 ---
 
-## 🖼️ Photos from my "Home Assistant":
-| Home page:    | One of the rooms:     | Pop -up windows in the room: |
-|:--------------------|:--------------------|:--------------------|
-| ![image](/img/nachalna_stranica.png) | ![image](/img/staq_hol.png) | ![image](/img/izkachasti_prozorci.png) |
-| Shopllist with Pictures: | Integrations I use: | Zigbee network1: |
-| ![image](/img/shoplist123.png) | ![image](/img/integrations.png) | ![image](/img/zigbee1.png) |
-| Additives: | Monitoring: | Zigbee Network2: |
-| ![image](/img/dobavki.png) | ![image](/img/monitoring.png) | ![image](/img/zigbee2.png) |
+## 💡More
+- [A list of supplements for supplements (checked and tested)](/add-on_repositorys.md)
+- [Here you will be able to see what my "Home Assistant looks like"](/my_hass_photos.md)
 
 ---
 
