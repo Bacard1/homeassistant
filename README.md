@@ -1,6 +1,6 @@
 # 🏠 HOME ASSISTANT PROJECT AND DEVELOPMENT
-[![PayPal gift](https://img.shields.io/badge/PayPal-gift-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
-![Скрипт](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
+[![PayPal gift](https://img.shields.io/badge/PayPal-donation-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
+![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
 
 
 Below I will present my Home Assistant project, dividing it into parts and presenting it as separate mini-projects.Some of them can be used without and with Home Assistant.
@@ -17,7 +17,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
   - [🛠️ Projects](#️-projects)
     - [🛜 Creating/integrating Zigbee network](#-creatingintegrating-zigbee-network)
     - [🛒 Image shopping list](#-image-shopping-list)
-    - [🎤🔉 Wled Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
+    - [🎤🔉 WLED Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
     - [🤖 Tasmota - integration and device](#-tasmota---integration-and-device)
 
 ---
@@ -91,14 +91,15 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 ---
 ---
 
-### 🎤🔉 Wled Sound Reactive intelligent color music
+### 🎤🔉 WLED Sound Reactive intelligent color music
 **The benefits of this shopping list:**
 -An instant reaction, which is not valuable to the human eye.
 - *Automatic microphone sensitivity.*
 - *Eftino and energy -saving.*
 - *WLED mod including all features of the original Firmware.*
 - *Web interface, android/poppy application compatible with Home Assistent.*
-- *[Video1](https://youtu.be/L4S17ooFPhY)  [Video2](https://youtu.be/V5HgxFt4hFg)*
+- *[Video1](https://youtu.be/L4S17ooFPhY)  
+- [Video2](https://youtu.be/V5HgxFt4hFg)*
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ✅ ANDROID</p>
 

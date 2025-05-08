@@ -1,6 +1,6 @@
 # 🖼️ Photos from my "Home Assistant":
 
-[![PayPal donation](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
+[![PayPal donation](https://img.shields.io/badge/PayPal-donation-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
 ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
 
 Here's what my Home Assistant looks like!
