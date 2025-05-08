@@ -15,10 +15,10 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
   - [💬 Tittle](#-tittle)
   - [💡More](#more)
   - [🛠️ Projects](#️-projects)
-    - [🧬 Creating/integrating Zigbee network](#-creatingintegrating-zigbee-network)
-    - [🧬 Image shopping list](#-image-shopping-list)
-    - [🧬 Wled Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
-    - [🧬 Tasmota - integration and device](#-tasmota---integration-and-device)
+    - [🛜 Creating/integrating Zigbee network](#-creatingintegrating-zigbee-network)
+    - [🛒 Image shopping list](#-image-shopping-list)
+    - [🎤🔉 Wled Sound Reactive intelligent color music](#-wled-sound-reactive-intelligent-color-music)
+    - [🤖 Tasmota - integration and device](#-tasmota---integration-and-device)
 
 ---
 
@@ -48,7 +48,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 ## 🛠️ Projects
 
-### 🧬 Creating/integrating Zigbee network
+### 🛜 Creating/integrating Zigbee network
 **The benefits of this shopping list:**
 - *It does not depend on the Internet.With the Zigbee2MQTT add -on, Homeassistant hosted and keeps your Zigbee devices.*
 - *It does not further load the main interesting network.*
@@ -69,7 +69,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 
 ---
 ---
-### 🧬 Image shopping list
+### 🛒 Image shopping list
 **The benefits of this shopping list:**
 - *Hurrying of the items in the individual categories.*
 - *Easy orientation with articles.*
@@ -91,7 +91,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 ---
 ---
 
-### 🧬 Wled Sound Reactive intelligent color music
+### 🎤🔉 Wled Sound Reactive intelligent color music
 **The benefits of this shopping list:**
 -An instant reaction, which is not valuable to the human eye.
 - *Automatic microphone sensitivity.*
@@ -112,7 +112,7 @@ In this storage, I will briefly explain the idea, purpose and advantages of each
 ---
 ---
 
-### 🧬 Tasmota - integration and device
+### 🤖 Tasmota - integration and device
 **The benefits of this shopping list:**
 - *Complete control of the device.*
 - *Control of the device does not depend on its internet connection.*
