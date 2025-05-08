@@ -1,6 +1,8 @@
 # 🏠 HOME ASSISTANT PROJECTS AND DEVELOPMENTS
 [![Donate via PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
 ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
+[![Български](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
+)](BG.md)
 
 This repository showcases my "Home Assistant" project, broken down into modules and presented as individual mini-projects. Some of these can be used both with and without Home Assistant.
 
