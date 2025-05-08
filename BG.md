@@ -79,7 +79,7 @@
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
 
-![Image shopping list](/static/GIF/Projekt_shoplist.gif)
+![Image shopping list](/img/Projekt_shoplist.gif)
 
 
 

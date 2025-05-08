@@ -76,7 +76,7 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
 
-![Image shopping list](/static/GIF/Projekt_shoplist.gif)
+![Image shopping list](/img/Projekt_shoplist.gif)
 
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
