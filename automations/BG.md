@@ -49,7 +49,7 @@
 ---
 > Диаграма:
 
-![single diagramm](/automations/img/single_diagramm.png)
+![single diagramm](/automations/img/single_diagramm.png) 
 
 Диаграмата за mode: single илюстрира най-простия режим на работа на автоматизация в Home Assistant.
 
