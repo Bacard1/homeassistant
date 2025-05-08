@@ -22,6 +22,7 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
     - [🎤🔉 WLED SoundReactive Intelligent Light Show](#-wled-soundreactive-intelligent-light-show)
     - [🤖 TASMOTA – Integration and Devices](#-tasmota--integration-and-devices)
     - [🏠 HASS with Two Zigbee Networks](#-hass-with-two-zigbee-networks)
+    - [🎙️ VOICE CONTROL OF HASS DEVICES WITH ALEXA/GOOGLE HOME](#️-voice-control-of-hass-devices-with-alexagoogle-home)
 
 ---
 
@@ -64,9 +65,12 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ![Създаване/Интегриране на Zigbee мрежа](/img/Zigbee_Network.gif)
 
+<h3 align="right">
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+</h3>
 
+---
 ---
 
 ### 🛒 Shopping List with Images
@@ -80,9 +84,12 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ![Image shopping list](/img/Projekt_shoplist.gif)
 
+<h3 align="right">
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+</h3>
 
+---
 ---
 
 ### 🎤🔉 WLED SoundReactive Intelligent Light Show
@@ -98,9 +105,12 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ![Wled Sound Reactive intelligent color music](/img/WLED%20SaundReactive.gif)
 
+<h3 align="right">
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/WLED-SoundReactive.git)
+</h3>
 
+---
 ---
 
 ### 🤖 TASMOTA – Integration and Devices
@@ -114,9 +124,13 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ![tasmota](/img/Tasmota-banner.png)
 
+<h3 align="right">
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
 
+
+
+---
 ---
 
 ### 🏠 HASS with Two Zigbee Networks
@@ -130,9 +144,33 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ![tasmota](/img/hass_2zigbee_network.png)
 
+<h3 align="right">
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-2-Zigbee-Network.git)
 
+</h3>
+
+---
+---
+
+### 🎙️ VOICE CONTROL OF HASS DEVICES WITH ALEXA/GOOGLE HOME
+**Advantages of this shopping list:**
+- *Control automations and scripts via voice commands.*
+- *Control devices via voice commands.*
+- *Monitor sensors via voice commands.*
+- *Easily add and remove devices.*
+
+<p align="center">✅ HomeAssistant    ✅ ALEXA    ✅ GOOGLE HOME</p>
+
+![MATTERHUB](/img/MATTERHUB_banner.png)
+
+<h3 align="right">
+
+[**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/HASS-matter-alexa-or-google-control.git)
+
+</h3>
+
+---
 ---
 
 > [!TIP]
