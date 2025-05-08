@@ -8,15 +8,17 @@ This repository showcases my "Home Assistant" project, broken down into modules 
 
 Here you’ll find a brief description of the idea, purpose, and advantages of each project. If you find any of them interesting, you can follow the link below each description to access the full project.
 
+[See what my Home Assistant setup looks like](/my_hass_photos.md)
+
 ---
 
-## 📦 Contents
+## 📦 CONTENTS
 
 - [🏠 HOME ASSISTANT PROJECTS AND DEVELOPMENTS](#-home-assistant-projects-and-developments)
-  - [📦 Contents](#-contents)
-  - [💬 Summary](#-summary)
-  - [💡 Recommendations](#-recommendations)
-  - [🛠️ Projects](#️-projects)
+  - [📦 CONTENTS](#-contents)
+  - [💬 SUMMARY](#-summary)
+  - [ℹ️ HELPLFIL INFORMATION:](#ℹ️-helplfil-information)
+  - [🛠️ PROJECTS](#️-projects)
     - [🛜 Creating/Integrating a Zigbee Network](#-creatingintegrating-a-zigbee-network)
     - [🛒 Shopping List with Images](#-shopping-list-with-images)
     - [🎤🔉 WLED SoundReactive Intelligent Light Show](#-wled-soundreactive-intelligent-light-show)
@@ -26,7 +28,7 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ---
 
-## 💬 Summary
+## 💬 SUMMARY
 
 - **Responsive design:** All elements and text should automatically scale based on the screen or window size while maintaining readability.
 - **Clean and simple layout:** Easy to understand by both adults and children. Quick access to key functions and information with minimal navigation, supported by popups for better UX.
@@ -44,13 +46,13 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 ---
 
-## 💡 Recommendations
+## ℹ️ HELPLFIL INFORMATION:
 - [Add-on repository list (tested and verified)](/add-on%20repositorys.md)
-- [See what my Home Assistant setup looks like](/my_hass_photos.md)
+- [Types of automation](/automations/automations.md)
 
 ---
 
-## 🛠️ Projects
+## 🛠️ PROJECTS
 
 ### 🛜 Creating/Integrating a Zigbee Network
 **Advantages:**
