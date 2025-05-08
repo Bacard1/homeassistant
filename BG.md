@@ -102,7 +102,7 @@
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ✅ ANDROID</p>
 
-![Wled Sound Reactive intelligent color music](/static/GIF/WLED%20SoundReactivee.gif)
+![Wled Sound Reactive intelligent color music](/img/WLED%20SaundReactive.gif)
 
 <h3 align="right">
 

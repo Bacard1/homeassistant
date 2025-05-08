@@ -60,6 +60,9 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 <p align="center">✅ HomeAssistant    ❌ WEB    ❌ ANDROID</p>
 
+![Създаване/Интегриране на Zigbee мрежа](/img/Zigbee_Network.gif)
+
+
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
 
 ---
@@ -72,6 +75,9 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 - *Automatically removes checked items.*
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
+
+![Image shopping list](/static/GIF/Projekt_shoplist.gif)
+
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
 
@@ -88,6 +94,9 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ✅ ANDROID</p>
 
+![Wled Sound Reactive intelligent color music](/img/WLED%20SaundReactive.gif)
+
+
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/WLED-SoundReactive.git)
 
 ---
@@ -101,6 +110,9 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 
 <p align="center">✅ HomeAssistant    ✅ WEB    ❌ ANDROID</p>
 
+![tasmota](/img/TASMOTA.png)
+
+
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/TASMOTA-switch.git)
 
 ---
@@ -113,6 +125,9 @@ Here you’ll find a brief description of the idea, purpose, and advantages of e
 - *Flexible migration and experimentation.*
 
 <p align="center">✅ HomeAssistant    ❌ WEB    ❌ ANDROID</p>
+
+![tasmota](/img/hass_2zigbee_network.png)
+
 
 [**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-2-Zigbee-Network.git)
 
