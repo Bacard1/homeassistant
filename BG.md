@@ -26,6 +26,7 @@
     - [🤖 TASMOTA - интеграция и устройства](#-tasmota---интеграция-и-устройства)
     - [🏠 HASS с две Zigbee мрежи](#-hass-с-две-zigbee-мрежи)
     - [🎙️ ГЛАСОВО УПРАВЛЕНИЕ НА HASS УСТРОЙСТВА С ALEXA/GOOGLE HOME](#️-гласово-управление-на-hass-устройства-с-alexagoogle-home)
+    - [🖲️УПРАВЛЕНИЕ НА ZIGBEE FINGERBOT ЧРЕЗ NFC И HOME ASSISTAN](#️управление-на-zigbee-fingerbot-чрез-nfc-и-home-assistan)
 
 ---
 
@@ -169,6 +170,29 @@
 <h3 align="right">
 
 [**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-matter-alexa-or-google-control.git)
+</h3>
+
+---
+---
+
+### 🖲️УПРАВЛЕНИЕ НА ZIGBEE FINGERBOT ЧРЕЗ NFC И HOME ASSISTAN
+**Предимствата на този списък за пазаруване:**
+- *🗝️ Безконтактен достъп.*
+- *🏠 Интеграция с Home Assistan*
+- *🤖 Използване на съществуващи бутони*
+- *🔒 Локално и офлайн управление*
+- *🛠️ Лесно конфигуриране*
+- *📱 Съвместимост с всяко NFC устройство*
+- *⏱️ Мигновена реакция*
+- *📦 Ниска цена и мащабируемост*
+
+<p align="center">✅ HomeAssistant    ✅ ALEXA    ✅ NFC</p>
+
+![HASS-Fingerbot-NFC-Door](/img/banner_HASS-Fingerbot-NFC-Door.png)
+
+<h3 align="right">
+
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-Fingerbot-NFC-Door)
 </h3>
 
 ---

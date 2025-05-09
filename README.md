@@ -27,6 +27,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
     - [🤖 TASMOTA – Integration and Devices](#-tasmota--integration-and-devices)
     - [🏠 HASS with Two Zigbee Networks](#-hass-with-two-zigbee-networks)
     - [🎙️ VOICE CONTROL OF HASS DEVICES WITH ALEXA/GOOGLE HOME](#️-voice-control-of-hass-devices-with-alexagoogle-home)
+    - [🖲️ZIGBEE FINGERBOT CONTROL VIA NFC \& HOME ASSISTANT](#️zigbee-fingerbot-control-via-nfc--home-assistant)
 
 ---
 
@@ -173,6 +174,28 @@ Most projects include support in both English and Bulgarian, and I continuously 
 
 [**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/HASS-matter-alexa-or-google-control.git)
 
+</h3>
+
+---
+---
+
+### 🖲️ZIGBEE FINGERBOT CONTROL VIA NFC & HOME ASSISTANT  
+**Advantages of this setup:**  
+- *🗝️ Contactless access.*  
+- *🏠 Integration with Home Assistant.*  
+- *🤖 Utilizes existing physical buttons.*  
+- *🔒 Local and offline control.*  
+- *🛠️ Easy to configure.*  
+- *📱 Compatible with any NFC-enabled device.*  
+- *⏱️ Instant response time.*  
+- *📦 Low cost and scalable solution.*  
+
+<p align="center">✅ Home Assistant    ✅ ALEXA    ✅ NFC</p>  
+
+![HASS-Fingerbot-NFC-Door](/img/banner_HASS-Fingerbot-NFC-Door.png)  
+
+<h3 align="right">  
+[**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-Fingerbot-NFC-Door)  
 </h3>
 
 ---
