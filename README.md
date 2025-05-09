@@ -4,9 +4,11 @@
 [![Български](https://img.shields.io/badge/BG_Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
 )](BG.md)
 
-This repository showcases my "Home Assistant" project, broken down into modules and presented as individual mini-projects. Some of these can be used both with and without Home Assistant.
+Welcome to my Home Assistant repository!
+Here you'll find a collection of my personal Home Assistant projects, automations, configurations, and integrations — all carefully developed to simplify daily routines, enhance comfort, and save energy in the smart home environment.
+Most projects include support in both English and Bulgarian, and I continuously update the repository with new features and improvements.
 
-Here you’ll find a brief description of the idea, purpose, and advantages of each project. If you find any of them interesting, you can follow the link below each description to access the full project.
+🔧 Smart Home | 🧠 Automations | 🌐 IoT Integrations
 
 [See what my Home Assistant setup looks like](/my_hass_photos.md)
 
