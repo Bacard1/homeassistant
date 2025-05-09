@@ -50,7 +50,7 @@
 ## ℹ️ ПОЛЕЗНА ИНФОРМАЦИЯ:
 - [Списък със хранилищата за добавки (проверени и изпробвани)](/add-on%20repositorys.md)
 - [Видове автоматизации](/automations/automations.md)
-
+- [HOME-ASSISTANT-AUTOMATIONS](https://github.com/Bacard1/homeassistant-automations)
 
 ---
 
