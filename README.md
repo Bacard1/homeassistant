@@ -28,6 +28,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
     - [🏠 HASS with Two Zigbee Networks](#-hass-with-two-zigbee-networks)
     - [🎙️ VOICE CONTROL OF HASS DEVICES WITH ALEXA/GOOGLE HOME](#️-voice-control-of-hass-devices-with-alexagoogle-home)
     - [🖲️ZIGBEE FINGERBOT CONTROL VIA NFC \& HOME ASSISTANT](#️zigbee-fingerbot-control-via-nfc--home-assistant)
+    - [🌿 Eco Mode for Thermostats in Home Assistant](#-eco-mode-for-thermostats-in-home-assistant)
 
 ---
 
@@ -195,7 +196,33 @@ Most projects include support in both English and Bulgarian, and I continuously 
 ![HASS-Fingerbot-NFC-Door](/img/banner_HASS-Fingerbot-NFC-Door.png)  
 
 <h3 align="right">  
+
 [**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-Fingerbot-NFC-Door)  
+</h3>
+
+---
+---
+
+
+### 🌿 Eco Mode for Thermostats in Home Assistant
+
+**Benefits of this solution:**
+- *⚡ Energy savings*
+- *🏡 Comfort without compromise*
+- *🔄 Easy integration*
+- *🛠️ Flexibility and customization*
+- *💻 No additional hardware needed*
+- *📲 Easy setup*
+- *💰 Cost effective*
+- *📈 Scalability*
+
+<p align="center">✅ HomeAssistant    ✅ SMART HOME    ✅ SAVING</p>
+
+![ECO MOD](/img/eco_mod.png)
+
+<h3 align="right">
+
+[**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-Thermostat-Eco-MOD)
 </h3>
 
 ---
