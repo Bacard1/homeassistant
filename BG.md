@@ -238,7 +238,7 @@
 
 <p align="center">✅ HomeAssistant    ✅ Zigbee     ✅ SAVING</p>
 
-![ECO MOD](/img/benner_2_zigbeenetwork.png)
+![2 network](/img/benner_2_zigbeenetwork.png)
 
 <h3 align="right">
 
