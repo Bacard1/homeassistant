@@ -31,6 +31,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
     - [🌿 Eco Mode for Thermostats in Home Assistant](#-eco-mode-for-thermostats-in-home-assistant)
     - [🏠 HOME ASSISTANT with Dual Zigbee Networks via Zigbee2MQTT](#-home-assistant-with-dual-zigbee-networks-via-zigbee2mqtt)
     - [🔋 HASS-AWAY-MODE / AWAY MODE](#-hass-away-mode--away-mode)
+    - [⏱️ Home Assistant - Flexible Timer Automation](#️-home-assistant---flexible-timer-automation)
 
 ---
 
@@ -274,6 +275,28 @@ Most projects include support in both English and Bulgarian, and I continuously 
 <h3 align="right">
 
 [**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-away-mode)
+</h3>
+
+---
+---
+
+### ⏱️ Home Assistant - Flexible Timer Automation
+**Benefits of this automation:**
+[![GitHub](https://img.shields.io/badge/🐙_Project_Page-181717?logo=github)](https://github.com/Bacard1/HASS-Flexible-Timer)
+- *🕒 Set interval via UI (hours, minutes, seconds)*
+- *⚙️ Execute actions after interval ends*
+- *💾 Stores last execution time*
+- *🧠 Prevents premature triggering*
+- *🔘 Interface controls: Start, Stop, Reset*
+- *✅ Automation turns off automatically after execution*
+
+<p align="center">✅ HomeAssistant    ✅ Zigbee     ✅ SAVING</p>
+
+![Flexible Taimer](/img/banner_flexible_taimer.png)
+
+<h3 align="right">
+
+[**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-Flexible-Timer)
 </h3>
 
 ---
