@@ -99,7 +99,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
 
 <h3 align="right">
 
-[**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+[**↪️ GO TO PROJECT ▶️**](https://github.com/Bacard1/HASS-Shoplist)
 </h3>
 
 ---

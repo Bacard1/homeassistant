@@ -98,7 +98,7 @@ Die meisten Projekte bieten Unterstützung für Deutsch und Englisch, und der In
 
 <h3 align="right">
 
-[**↪️ZUM PROJEKT▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+[**↪️ZUM PROJEKT▶️**](https://github.com/Bacard1/HASS-Shoplist)
 </h3>
 
 ---

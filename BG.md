@@ -97,7 +97,7 @@
 
 <h3 align="right">
 
-[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-ZigbeeNetwork.git)
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-Shoplist)
 </h3>
 
 ---
