@@ -30,6 +30,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
     - [🖲️ZIGBEE FINGERBOT CONTROL VIA NFC \& HOME ASSISTANT](#️zigbee-fingerbot-control-via-nfc--home-assistant)
     - [🌿 Eco Mode for Thermostats in Home Assistant](#-eco-mode-for-thermostats-in-home-assistant)
     - [🏠 HOME ASSISTANT with Dual Zigbee Networks via Zigbee2MQTT](#-home-assistant-with-dual-zigbee-networks-via-zigbee2mqtt)
+    - [🔋 HASS-AWAY-MODE / AWAY MODE](#-hass-away-mode--away-mode)
 
 ---
 
@@ -247,6 +248,32 @@ Most projects include support in both English and Bulgarian, and I continuously 
 <h3 align="right">
 
 [**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-2-Zigbee-Network)
+</h3>
+
+---
+---
+
+### 🔋 HASS-AWAY-MODE / AWAY MODE  
+**Benefits of this project:**  
+[![GitHub](https://img.shields.io/badge/🐙_View_on_GitHub-181717?logo=github)](https://github.com/Bacard1/HASS-away-mode)  
+- *🏠 Automated away mode management*  
+- *🔌 Home Assistant integration*  
+- *🔄 Flexibility with input booleans*  
+- *💡 Supports multiple scenarios*  
+- *📜 Simplified configuration*  
+- *⚙️ Uses standard Home Assistant components*  
+- *🔧 Easily extendable*  
+- *🤖 Reduces manual adjustments*  
+- *🛡️ Enhances security*  
+- *⚡ Optimizes energy efficiency*  
+
+<p align="center">✅ HomeAssistant    ✅ Zigbee     ✅ SAVING</p>
+
+![HASS-AWAY-MODE](/img/banner_away_mod.png)
+
+<h3 align="right">
+
+[**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-away-mode)
 </h3>
 
 ---

@@ -30,6 +30,7 @@
     - [🖲️УПРАВЛЕНИЕ НА ZIGBEE FINGERBOT ЧРЕЗ NFC И HOME ASSISTAN](#️управление-на-zigbee-fingerbot-чрез-nfc-и-home-assistan)
     - [🌿 Еко Мод за термостати в Home Assistant](#-еко-мод-за-термостати-в-home-assistant)
     - [🏠 HOME ASSISTANT с две Zigbee мрежи чрез Zigbee2MQTT](#-home-assistant-с-две-zigbee-мрежи-чрез-zigbee2mqtt)
+    - [🔋 HASS-AWAY-MODE / БЕЗ ПРИСЪСТВИЕ](#-hass-away-mode--без-присъствие)
 
 ---
 
@@ -242,7 +243,33 @@
 
 <h3 align="right">
 
-[**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-2-Zigbee-Network)
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-2-Zigbee-Network)
+</h3>
+
+---
+---
+
+### 🔋 HASS-AWAY-MODE / БЕЗ ПРИСЪСТВИЕ
+**Предимствата на този списък за пазаруване:**
+[![GitHub](https://img.shields.io/badge/🐙_Към_проекта-181717?logo=github)](https://github.com/Bacard1/HASS-away-mode)
+- *🏠 Автоматизирано управление на отсъствие*
+- *🔌 Интеграция с Home Assistant*
+- *🔄 Гъвкавост чрез входни булеви помощници*
+- *💡 Поддръжка на множество сценарии*
+- *📜 Опростена конфигурация*
+- *⚙️ Използва стандартни Home Assistant компоненти*
+- *🔧 Лесно разширяем*
+- *🤖 Намалява ръчните настройки*
+- *🛡️ Подобрява сигурността*
+- *⚡ Оптимизира енергийната ефективност*
+
+<p align="center">✅ HomeAssistant    ✅ Zigbee     ✅ SAVING</p>
+
+![HASS-AWAY-MODE](/img/banner_away_mod.png)
+
+<h3 align="right">
+
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-away-mode)
 </h3>
 
 ---
