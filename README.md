@@ -254,7 +254,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
 ---
 
 ### 🔋 HASS-AWAY-MODE / AWAY MODE  
-**Benefits of this project:**  
+**Benefits of this project:**
 [![GitHub](https://img.shields.io/badge/🐙_View_on_GitHub-181717?logo=github)](https://github.com/Bacard1/HASS-away-mode)  
 - *🏠 Automated away mode management*  
 - *🔌 Home Assistant integration*  
