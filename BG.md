@@ -2,6 +2,7 @@
 [![PayPal дарение](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
 ![Скрипт](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
 [![English](https://img.shields.io/badge/EN_English-language-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](README.md)
+[![Home Assistant](https://img.shields.io/badge/🏠_Home_Assistant-41BDF5?logo=homeassistant)](https://www.home-assistant.io/)  
 
 Добре дошли в моето хранилище за Home Assistant!
 Тук ще откриете колекция от мои проекти, автоматизации, конфигурации и интеграции, създадени с цел да улеснят ежедневието, да повишат комфорта и да спестят енергия в интелигентния дом.
@@ -28,6 +29,7 @@
     - [🎙️ ГЛАСОВО УПРАВЛЕНИЕ НА HASS УСТРОЙСТВА С ALEXA/GOOGLE HOME](#️-гласово-управление-на-hass-устройства-с-alexagoogle-home)
     - [🖲️УПРАВЛЕНИЕ НА ZIGBEE FINGERBOT ЧРЕЗ NFC И HOME ASSISTAN](#️управление-на-zigbee-fingerbot-чрез-nfc-и-home-assistan)
     - [🌿 Еко Мод за термостати в Home Assistant](#-еко-мод-за-термостати-в-home-assistant)
+    - [🏠 HOME ASSISTANT с две Zigbee мрежи чрез Zigbee2MQTT](#-home-assistant-с-две-zigbee-мрежи-чрез-zigbee2mqtt)
 
 ---
 
@@ -217,6 +219,29 @@
 <h3 align="right">
 
 [**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-Thermostat-Eco-MOD)
+</h3>
+
+---
+---
+
+### 🏠 HOME ASSISTANT с две Zigbee мрежи чрез Zigbee2MQTT
+**Предимствата на този списък за пазаруване:**
+- *🌐 Две независими Zigbee мрежи*
+- *🔌 Интеграция с Zigbee2MQTT*
+- *⚡ Подобрена производителност*
+- *📈 Гъвкавост и маскабируемост*
+- *🏠 Локално управление*
+- *📖 Подробна документация*
+- *💻 Съвместимост с популярни устройства*
+- *📊 Визуализация на мрежата*
+
+<p align="center">✅ HomeAssistant    ✅ Zigbee     ✅ SAVING</p>
+
+![ECO MOD](/img/benner_2_zigbeenetwork.png)
+
+<h3 align="right">
+
+[![GitHub](https://img.shields.io/badge/🐙_Към_проекта-181717?logo=github)](https://github.com/Bacard1/HASS-2-Zigbee-Network)
 </h3>
 
 ---

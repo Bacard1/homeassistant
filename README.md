@@ -29,6 +29,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
     - [🎙️ VOICE CONTROL OF HASS DEVICES WITH ALEXA/GOOGLE HOME](#️-voice-control-of-hass-devices-with-alexagoogle-home)
     - [🖲️ZIGBEE FINGERBOT CONTROL VIA NFC \& HOME ASSISTANT](#️zigbee-fingerbot-control-via-nfc--home-assistant)
     - [🌿 Eco Mode for Thermostats in Home Assistant](#-eco-mode-for-thermostats-in-home-assistant)
+    - [🏠 HOME ASSISTANT with Dual Zigbee Networks via Zigbee2MQTT](#-home-assistant-with-dual-zigbee-networks-via-zigbee2mqtt)
 
 ---
 
@@ -203,7 +204,6 @@ Most projects include support in both English and Bulgarian, and I continuously 
 ---
 ---
 
-
 ### 🌿 Eco Mode for Thermostats in Home Assistant
 
 **Benefits of this solution:**
@@ -223,6 +223,29 @@ Most projects include support in both English and Bulgarian, and I continuously 
 <h3 align="right">
 
 [**↪️TO PROJECT▶️**](https://github.com/Bacard1/HASS-Thermostat-Eco-MOD)
+</h3>
+
+---
+---
+
+### 🏠 HOME ASSISTANT with Dual Zigbee Networks via Zigbee2MQTT
+**Key Benefits:**
+- *🌐 Two Independent Zigbee Networks*
+- *🔌 Zigbee2MQTT Integration*
+- *⚡ Enhanced Performance*
+- *📈 Flexibility and Scalability*
+- *🏠 Local Control*
+- *📖 Comprehensive Documentation*
+- *💻 Compatible with Popular Devices*
+- *📊 Network Visualization*
+
+<p align="center">✅ HomeAssistant    ✅ Zigbee     ✅ SAVING</p>
+
+![ECO MOD](/img/benner_2_zigbeenetwork.png)
+
+<h3 align="right">
+
+[![GitHub](https://img.shields.io/badge/🐙_Към_проекта-181717?logo=github)](https://github.com/Bacard1/HASS-2-Zigbee-Network)
 </h3>
 
 ---
