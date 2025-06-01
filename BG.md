@@ -225,8 +225,8 @@
 ---
 
 ### 🏠 HOME ASSISTANT с две Zigbee мрежи чрез Zigbee2MQTT
-[![GitHub](https://img.shields.io/badge/🐙_Към_проекта-181717?logo=github)](https://github.com/Bacard1/HASS-2-Zigbee-Network)
 **Предимствата на този списък за пазаруване:**
+[![GitHub](https://img.shields.io/badge/🐙_Към_проекта-181717?logo=github)](https://github.com/Bacard1/HASS-2-Zigbee-Network)
 - *🌐 Две независими Zigbee мрежи*
 - *🔌 Интеграция с Zigbee2MQTT*
 - *⚡ Подобрена производителност*

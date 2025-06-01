@@ -229,8 +229,8 @@ Most projects include support in both English and Bulgarian, and I continuously 
 ---
 
 ### 🏠 HOME ASSISTANT with Dual Zigbee Networks via Zigbee2MQTT
-[![GitHub](https://img.shields.io/badge/🐙_GitHub_Project-181717?logo=github)](https://github.com/Bacard1/HASS-2-Zigbee-Network)
 **Key Benefits:**
+[![GitHub](https://img.shields.io/badge/🐙_GitHub_Project-181717?logo=github)](https://github.com/Bacard1/HASS-2-Zigbee-Network)
 - *🌐 Two Independent Zigbee Networks*
 - *🔌 Zigbee2MQTT Integration*
 - *⚡ Enhanced Performance*
