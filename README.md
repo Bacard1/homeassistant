@@ -57,7 +57,7 @@ Most projects include support in both English and Bulgarian, and I continuously 
 ---
 
 ## ℹ️ HELPLFIL INFORMATION:
-- [Add-on repository list (tested and verified)](add-on%20repositorys.md)
+- [Add-on repository list (tested and verified)](add-on_repositorys.md)
 - [Types of automation](/automations/README.md)
 - [HOME-ASSISTANT-AUTOMATIONS](https://github.com/Bacard1/homeassistant-automations)
   
